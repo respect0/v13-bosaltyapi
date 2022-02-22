@@ -1,14 +1,11 @@
 {
     "guild": {
         "id": "",
-        "tagges": [""],
-        "defaultTag": "",
-        "nameTag": ""
     },
     "bot": {
         "owners": ["919663047923101736"],
-        "prefix" "!",
-        "mongoURL": "mongodb://localhost:27017/V13KayitTest",
+        "prefix": "!",
+        "mongoURL": "mongodb://localhost:27017/v13-bosaltyapi",
         "activity": "only respect?",
         "token": "xd"
     }
